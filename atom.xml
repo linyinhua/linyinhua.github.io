@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linyinhua.github.io/</id>
     <title>liyinhua&apos;s blog</title>
-    <updated>2021-10-16T12:03:06.762Z</updated>
+    <updated>2021-10-17T12:59:35.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linyinhua.github.io/"/>
     <link rel="self" href="https://linyinhua.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://linyinhua.github.io/images/avatar.png</logo>
     <icon>https://linyinhua.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, liyinhua&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[MAZAK Q250II]]></title>
+        <id>https://linyinhua.github.io/post/mazak-q250ii/</id>
+        <link href="https://linyinhua.github.io/post/mazak-q250ii/">
+        </link>
+        <updated>2021-10-17T12:56:59.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>  系统能启动，进不了界面。出现一个MT70HUB_2接口错误。插拔一个宽线排后恢复。</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello world!]]></title>
         <id>https://linyinhua.github.io/post/hello-world/</id>
